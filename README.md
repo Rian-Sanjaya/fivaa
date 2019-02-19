@@ -1,8 +1,9 @@
 ## Sirclo Technical Screening Test
 
-# Language: javascript
+## Language: javascript
 
-# To test run 
+## To test run 
 
 - copy all fivaa.js
 - paste into google chrome console
+- press enter
